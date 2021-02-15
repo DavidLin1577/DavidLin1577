@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on SF.
-- 🌱 I’m currently learning os, such as tencent-tinyos, rtthread, arm-mbem, free-rtos and so on.
 - 📫 How to reach me: @DavidLin1577
 
 ![](https://github-readme-stats.vercel.app/api?username=DavidLin1577)
