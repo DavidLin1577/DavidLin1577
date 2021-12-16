@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: @DavidLin1577 or linpeng1577@163.com
+- 📫 How to reach me: linpeng1577@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=DavidLin1577)
